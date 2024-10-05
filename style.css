@@ -3,12 +3,12 @@ html, body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #45a049 0%, #F5D927 100%);
+    background: linear-gradient(135deg, #1a301b 0%, #92800d 100%);
 }
 
 /* Wrapper for header and footer, same explanation for tablet, mobile and laptop */
 header{
-    background-color: #4CAF50;
+    background-color: #1a301b;
     color: white;
     text-align: center;
     padding: 20px;
@@ -16,7 +16,7 @@ header{
 footer{
     text-align: center;
     padding: 20px;
-    background: linear-gradient(#45a049, #F5D927);
+    background: linear-gradient(#1a301b, #F5D927);
     color: #ffffff;
 }
 
@@ -70,7 +70,7 @@ textarea {
 
 /* Submit button styling, same explanation for tablet, mobile and laptop */
 .submit-button {
-    background-color: #4CAF50;
+    background-color: #1a301b;
     color: white;
     border: none;
     padding: 10px 15px;
@@ -80,7 +80,7 @@ textarea {
 }
 
 .submit-button:hover {
-    background-color: #45a049;
+    background-color: #1a301b;
 }
 
 /* Footer styling, same explanation for tablet, mobile and laptop */
